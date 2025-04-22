@@ -8,4 +8,4 @@ bisa cek panduan disitu, sudah cukup jelas
  3. done
 
 ### untuk menjalankan diatas harus urutan firewall di pertama, firewall paling atas akan di ekse dulu
-# Kurang lebih sama dengan Youtube (https://github.com/PuguhDy/Blok-Youtube-Mikrotik/blob/main/README.md
+# [Kurang lebih sama dengan Youtube](https://github.com/PuguhDy/Blok-Youtube-Mikrotik/blob/main/README.md
